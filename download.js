@@ -10,7 +10,7 @@ const s3 = new AWS.S3({
 });
 
 // Nome do bucket e do arquivo
-const bucketName = 'asset-design-space';
+const bucketName = 'bucket';
 const fileName = 'file-name.tar.gz'; // Caminho no Spaces
 const localFilePath = './file-name.tar.gz'; // Onde salvar localmente
 

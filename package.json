@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node download.js"
+    "download": "node download.js",
+    "upload": "node upload.js"
   },
   "keywords": [],
   "author": "",
